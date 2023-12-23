@@ -6,5 +6,5 @@ The game starts by choosing the numbers 1-2-3, which represent rock-paper-scisso
 ## Notifications:
 This game is written correctly without cheating in a short future and is available on my gate.
 ## Author:
-Maryam Jamali :-)
+Maryam Jamali 😉
 ‌
