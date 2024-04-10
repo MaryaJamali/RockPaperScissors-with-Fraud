@@ -15,3 +15,7 @@ while True:
     elif p_c == 3:
         print("I choose Rock")
         print("I won :p ")
+
+# Name of the programmer: Maryam Jamali
+# Email address: m.jamali16@yahoo.com
+# GitHub address: https://github.com/MaryaJamali
